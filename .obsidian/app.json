@@ -1,0 +1,18 @@
+{
+  "promptDelete": false,
+  "mobileToolbarCommands": [
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-comments",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:clear-formatting",
+    "editor:insert-horizontal-rule",
+    "editor:attach-file",
+    "editor:insert-table",
+    "editor:configure-toolbar"
+  ]
+}
