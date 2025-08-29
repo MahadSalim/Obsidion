@@ -8,6 +8,7 @@
     "editor:toggle-highlight",
     "editor:toggle-comments",
     "editor:toggle-bullet-list",
+    "editor:indent-list",
     "editor:toggle-numbered-list",
     "editor:clear-formatting",
     "editor:insert-horizontal-rule",

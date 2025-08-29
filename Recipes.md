@@ -1,11 +1,17 @@
-### FoodBowl1
-- onion
-- chicken
-- potatoes
-- sauces
-- peas
-- capsicum 
-- egg
-- chips
-- spinach
-
+### FoodBowl
+- greens:
+	- onion
+	- cucumber 
+	- capsicum 
+	- peas
+- carbs:
+	- potato
+- protein:
+	- chicken
+	- egg
+- sauce:
+	- soya
+	- chilli
+	- green chili 
+- toppings:
+	- chips
